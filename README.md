@@ -3,12 +3,12 @@
 ![Imagen de Portada](Recursos/codigo.jpg) 
 
 ## Descripción 
-Breve descripción del proyecto, objetivos y funcionalidades principales. 
+En este README se explicacará lo más básico de mi como persona y aprendiz de programador. 
 
-## Características 
-- Característica 1
-- Característica 2
-- Característica 3
+## Soft Skills
+- Ambición y ganas de aprender cada día más.
+- Capacidad de no darme por vencido ante las adversidades.
+- Compromiso para con los proyectos en los que me encuentro involucrado al cien por cien.
 
 ## Instalación 
 Instrucciones para instalar y configurar el proyecto. 
