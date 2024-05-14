@@ -1,6 +1,6 @@
 # Repositorio GITHUB de Carlos Capell
 
-![Imagen de Portada](url_de_la_imagen) 
+![Imagen de Portada](GITHUB recursos/Imagen_codigo.jpg) 
 
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales. 
